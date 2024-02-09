@@ -18,6 +18,7 @@ class _LoginScreenState extends State<LoginScreen> {
             "Start or Join a meeting",
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
+          Image.asset('assets/images/onboarding.jpg'),
         ],
       ),
     );
